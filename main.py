@@ -112,5 +112,5 @@ def menu():
         elif op == "10": pipeline_agregacion()
         elif op == "11": break
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     menu()
